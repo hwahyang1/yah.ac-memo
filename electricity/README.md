@@ -1,0 +1,29 @@
+## 전기야학
+> 필자는 소프트웨어 엔지니어입니다.
+> 
+> 언제부턴가 소프트웨어 아래에서 일어나는 일들이 궁금해졌습니다.
+> 
+> 그래서 여러 차례 전자공학 공부를 시도했지만 쉽지 않았습니다. 조급함 때문이었을 겁니다
+> 
+> 급할수록 돌아가라 했던가요?
+> 
+> 전기부터 다시 시작하기로 했습니다.
+> 
+> 그런데 전기 공부는 돌아가는 공부가 아니었습니다.
+> 
+> 전기공부는 그것 자체로 쓸모 있었습니다.
+> 
+> 안 들리던 것이 들리고, 안 보이던 것이 보이기 시작했거든요.
+> 
+> 이 좋은 전기공부를 함께 하기 위해서 전기1 수업을 만들었습니다.
+> 
+> 이 수업을 만들고 나니 전자공학 공부를 다시 시작해보고 싶어졌습니다.
+
+2020-12-30 ~ 2021-01-03
+
+### 목차
+- [1일차 - 옴의 법칙 (2020-12-30)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day1.md)
+- [2일차 - 누전 차단기 (2020-12-31)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day2.md)
+- [3일차 - 누전 차단기 (2021-01-01)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day3.md)
+- [4일차 - 멀티탭 (2021-01-02)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day4.md)
+- 5일차 - 전원 어댑터 & 수업을 마치며 (미작성)
