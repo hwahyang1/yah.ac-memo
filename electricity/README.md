@@ -1,3 +1,5 @@
+[← 목록으로 돌아가기](./README.md)
+
 ## 전기야학
 > 필자는 소프트웨어 엔지니어입니다.
 > 
@@ -22,8 +24,8 @@
 2020-12-30 ~ 2021-01-03
 
 ### 목차
-- [1일차 - 옴의 법칙 (2020-12-30)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day1.md)
-- [2일차 - 누전 차단기 (2020-12-31)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day2.md)
-- [3일차 - 누전 차단기 (2021-01-01)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day3.md)
-- [4일차 - 멀티탭 (2021-01-02)](https://github.com/hwahyang1/yah.ac-memo/blob/main/electricity/Day4.md)
+- [1일차 - 옴의 법칙 (2020-12-30)](./Day1.md)
+- [2일차 - 누전 차단기 (2020-12-31)](./Day2.md)
+- [3일차 - 누전 차단기 (2021-01-01)](./Day3.md)
+- [4일차 - 멀티탭 (2021-01-02)](./Day4.md)
 - 5일차 - 전원 어댑터 & 수업을 마치며 (미작성)
