@@ -138,7 +138,7 @@ But, 앞으로는 이러한 것들이 일상으로 정착 할 것이고 (마치 
 
 메모장을 열어, 머신러닝으로 해결 할 수 있을 것 같은 일들을 적어보기! (기술적 한계 고려 X, 한계는 어짜피 뚫리게 되어있음)
 
-> [다른 사람들의 계획 구경하기 (더 보기 좋은 모양으로 보기)]https://sheetui.com/view/responsive-grid/simple-card/1mdCb-xRYBAsAOeiC7miyQgcMqVzCpg_67OmfdGRvVAY/1/render?pageTitle=%EA%BF%88&pretitle=%7B%7B%EC%9D%B4%EB%A6%84%7D%7D&title=%7B%7B%ED%99%98%EA%B2%BD%7D%7D&subtitle=%7B%7B%EB%B6%88%EB%A7%8C%EC%A1%B1%7D%7D&description=%7B%7B%EA%BF%88%EA%BE%B8%EB%8A%94%20%EA%B2%83%7D%7D)
+> [다른 사람들의 계획 구경하기 (더 보기 좋은 모양으로 보기)](https://sheetui.com/view/responsive-grid/simple-card/1mdCb-xRYBAsAOeiC7miyQgcMqVzCpg_67OmfdGRvVAY/1/render?pageTitle=%EA%BF%88&pretitle=%7B%7B%EC%9D%B4%EB%A6%84%7D%7D&title=%7B%7B%ED%99%98%EA%B2%BD%7D%7D&subtitle=%7B%7B%EB%B6%88%EB%A7%8C%EC%A1%B1%7D%7D&description=%7B%7B%EA%BF%88%EA%BE%B8%EB%8A%94%20%EA%B2%83%7D%7D)
 
 > 다른 사람들의 꿈을 살펴보고, 나의 꿈을 표현하다 보면
 > 
@@ -188,7 +188,7 @@ But, 앞으로는 이러한 것들이 일상으로 정착 할 것이고 (마치 
 
 > 교양인 여러분!
 > 
-> **'나 이거 뭔지 알아!!'**를 외치고
+> '나 이거 뭔지 알아!!'를 외치고
 > 
 > 세상으로 돌아갑시다.
 > 
