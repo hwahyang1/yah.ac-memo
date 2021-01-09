@@ -4,7 +4,7 @@
 
 ### 머신러닝의 분류
 
-![Category](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12287.jpeg)
+![Category](./Day4_Category.jpeg)
 
 지도학습 : '기계를 가르친다', 모델을 이용해서 가능한 한 많은 경우의 수를 가르치는 것 (오답 확률 낮추기!)
 

@@ -38,7 +38,7 @@ But, 현실을 데이터로 표현하고 처리할 수 있게 하는 것 중 하
 
 **표에서 가로는 '행', 세로는 '열'**
 
-![Chart](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12255.jpeg)
+![Chart](./Day3_Chart.jpeg)
 
 사실 어느 쪽으로 쓰든 상관은 없는데, 데이터 산업에서는 왼쪽으로 씀!
 

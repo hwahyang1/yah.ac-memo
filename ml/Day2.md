@@ -30,7 +30,7 @@
 
 이제 이 수치를 이용해서 '일정 % 이상이면 경고를 띄우는 앱'을 제작할 수 있음
 
-![Image](https://s3-ap-northeast-2.amazonaws.com/opentutorials-user-file/module/4916/12191.jpg)
+![Image](./Day2_mlPreview.jpg)
 
 대충 이런느낌
 
