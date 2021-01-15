@@ -32,5 +32,5 @@
 - [6일차 - Tensorflow(JS) : 오리엔테이션 ~ 남의 모델 이용하기 (2021-01-11)](./Day6.md)
 - [7일차 - Tensorflow(JS) : 나의 모델 만들기 (2021-01-12)](./Day7.md)
 - [8일차 - Tensorflow(JS) : 정확도 측정 ~ 졸업식과 입학설명회 (2021-01-14)](./Day8.md)
-- [9일차 - Tensorflow(JS) : 여러개의 변수 (2021-01-15, 미작성)](./Day9.md)
+- [9일차 - Tensorflow(JS) : 여러개의 변수 (2021-01-15)](./Day9.md)
 - [10일차 - Tensorflow(JS) : tensorflowjs-vis ~ 수업을 마치며 (2021-01-16, 미작성)](./Day10.md)
